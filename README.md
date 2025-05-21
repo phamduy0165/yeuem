@@ -1,5 +1,5 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Vui vẻ 
+## _Một điều nho nhỏ vui vẻ_
 
 
 Mở file config.js sửa nội dung theo mẫu
