@@ -3,6 +3,7 @@ const CONFIG = {
     introDesc: `>Anh chúc cho cô gái trong trái tym tôi,
     Một ngày lễ 20/10 thật hạnh phúc
     Chúc cho em được những điều tốt đẹp nhất
+    Chúc em luôn được nở nụ cười trên môi,xinh tươi rạng ngời
     Hôm nay tôi đã cố gắng để tặng em 
     một bó hoa đẹp nhì(vì em đẹp nhất)
     nhưng vẫn chưa làm được,để tôi cơ hội sau nha nàng`,
@@ -16,6 +17,6 @@ const CONFIG = {
     reply: 'Mình yêu nhau đi <33333333',
     mess: 'Anh biết mà 🥰.Mình bắt đầu thôi 😳😳',
     messDesc: 'Xong tí thêm chuỗi nuôi bé lửa shop nhé .',
-    messLink: 'https://www.facebook.com/phamvan.duy.92102'
+    messLink: 'https://belovedbeyond.com/theme/V08/lib/ckfinder/userfiles/files/2(15).jpg'
    
 }
