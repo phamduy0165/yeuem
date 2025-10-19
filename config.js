@@ -1,18 +1,21 @@
 const CONFIG = {
-    introTitle: 'Wèi wèi!',
-    introDesc: `Đây chỉ là một trò vui vẻ làm ra lúc làm việc căng thẳng từ một dân IT,
-    hông phiền click tiếp nha ngườiđẹp.
-    Xem xong có feedback gì thì báo lại ngay cho người làm nhé`,
+    introTitle: 'Mai là ngày 20/10!',
+    introDesc: `>Anh chúc cho cô gái trong trái tym tôi,
+    Một ngày lễ 20/10 thật hạnh phúc
+    Chúc cho em được những điều tốt đẹp nhất
+    Hôm nay tôi đã cố gắng để tặng em 
+    một bó hoa đẹp nhì(vì em đẹp nhất)
+    nhưng vẫn chưa làm được,để tôi cơ hội sau nha nàng`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, anh trai à :3',
-    question:'Trên thế giới hơn 9 tỉ người mà sao thích em <3',
+    title: '20 tháng 10 thật rạng rỡ nha nàng thơ 😙',
+    desc: 'Về Thanh Hóa hay cho tôi được bù lại hôm nay nha ',
+    btnYes: 'Đi chill với tôi chứ',
+    btnNo: 'Không,hông chịu đâu :3',
+    question:'Em có điều gì muốn nói với tôi không <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Thích thì thích mà không thích thì thích <33333333',
-    mess: 'Anh biết mà 🥰. Tối nếu không bận thì phản hồi cho anh nha 😳😳',
-    messDesc: 'Tối nay nhắn mấy giờ cũng được nha người đẹp .',
+    reply: 'Mình yêu nhau đi <33333333',
+    mess: 'Anh biết mà 🥰.Mình bắt đầu thôi 😳😳',
+    messDesc: 'Xong tí thêm chuỗi nuôi bé lửa shop nhé .',
     messLink: 'https://www.facebook.com/phamvan.duy.92102'
    
 }
