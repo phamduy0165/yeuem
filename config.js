@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Mai là ngày 20/10!',
-    introDesc: `Anh chúc cho cô gái trong trái tym tôi,<br>
-    Một ngày lễ 20/10 thật hạnh phúc<br>
-    Chúc cho em được những điều tốt đẹp nhất<br>
-    Chúc em luôn được nở nụ cười trên môi,xinh tươi rạng ngời<br>
+    introDesc: `Anh chúc cho cô gái trong trái tym tôi,\n
+    Một ngày lễ 20/10 thật hạnh phúc
+    Chúc cho em được những điều tốt đẹp nhất
+    Chúc em luôn được nở nụ cười trên môi,xinh tươi rạng ngời
     Hôm nay tôi đã cố gắng để tặng em 
     một bó hoa đẹp nhì(vì em đẹp nhất)
     nhưng vẫn chưa làm được,để tôi cơ hội sau nha nàng`,
